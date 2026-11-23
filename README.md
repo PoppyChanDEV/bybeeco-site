@@ -26,6 +26,10 @@ Signup buttons link to the Microsoft Forms response URL supplied by BybeeCo. Bef
 
 ## Scope
 
-This site is an **interest test**, not functioning acquisition analysis software. The financial dashboard is hypothetical and clearly labeled as illustrative. There are no AI APIs, payment integrations, third-party trackers, or financial data collection on the website.
+This site is an **interest test**, not functioning acquisition analysis software. The financial dashboard is hypothetical and clearly labeled as illustrative. There are no AI APIs, payment integrations, advertising trackers, or financial data collection on the website. Cloudflare Web Analytics is included for website traffic measurement. The product signup itself is handled by Microsoft Forms.
 
 Contact: chandler@bybeeco.net
+
+## Analytics verification
+
+Cloudflare Web Analytics beacon is installed on the homepage, product page, and privacy page. After merging, open the Pages preview and navigate between the two public pages, then confirm page activity appears in the Cloudflare Web Analytics dashboard. Analytics reports may not populate immediately, and some browser privacy tools can block measurement.
