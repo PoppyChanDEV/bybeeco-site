@@ -37,6 +37,6 @@ Cloudflare Web Analytics beacon is installed on the homepage, product page, and 
 
 ## Naming transition (Valuark)
 
-Valuark is the **working** brand name pending formal trademark clearance and domain checks. BybeeCo LLC remains the parent company. The former Deal X-Ray URLs redirect via HTML meta-refresh so bookmarks continue to work. The Microsoft Forms signup may still display the former name until its owner updates the form.
+Valuark is the **working** brand name pending formal trademark clearance and domain checks. BybeeCo LLC remains the parent company. The former Deal X-Ray URLs redirect via HTML meta-refresh so bookmarks continue to work. The Microsoft Forms signup has been updated to Valuark per the owner's confirmation.
 
-Before approving the rename for public deployment, update the Microsoft Form title and description to Valuark and verify that its consent wording still matches the published privacy notice. Do not purchase a Valuark domain or represent the trademark as cleared based on web search alone.
+Before promotion, verify that the live form uses the new name and that its email consent wording still matches the published privacy notice. Do not purchase a Valuark domain or represent the trademark as cleared based on web search alone.
