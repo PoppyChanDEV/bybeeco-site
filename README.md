@@ -1,12 +1,13 @@
 # BybeeCo website
 
-Static website for **BybeeCo LLC** and the proposed **Deal X-Ray** acquisition analysis product.
+Static website for **BybeeCo LLC** and the proposed **Valuark** acquisition analysis product.
 
 ## Pages
 
 - `/` — BybeeCo company homepage
-- `/deal-xray/` — Deal X-Ray concept and early-access list
-- `/deal-xray/privacy.html` — early-access privacy notice
+- `/valuark/` — Valuark concept and early-access list
+- `/deal-xray/` — legacy route redirect to Valuark
+- `/valuark/privacy.html` — early-access privacy notice
 
 ## Hosting
 
@@ -33,3 +34,9 @@ Contact: chandler@bybeeco.net
 ## Analytics verification
 
 Cloudflare Web Analytics beacon is installed on the homepage, product page, and privacy page. After merging, open the Pages preview and navigate between the two public pages, then confirm page activity appears in the Cloudflare Web Analytics dashboard. Analytics reports may not populate immediately, and some browser privacy tools can block measurement.
+
+## Naming transition (Valuark)
+
+Valuark is the **working** brand name pending formal trademark clearance and domain checks. BybeeCo LLC remains the parent company. The former Deal X-Ray URLs redirect via HTML meta-refresh so bookmarks continue to work. The Microsoft Forms signup may still display the former name until its owner updates the form.
+
+Before approving the rename for public deployment, update the Microsoft Form title and description to Valuark and verify that its consent wording still matches the published privacy notice. Do not purchase a Valuark domain or represent the trademark as cleared based on web search alone.
