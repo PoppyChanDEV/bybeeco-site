@@ -1,11 +1,12 @@
 # BybeeCo website
 
-Static website for **BybeeCo LLC** and the proposed **Valuark** acquisition analysis product.
+Static website for **BybeeCo LLC** and the **Valuark** acquisition calculator preview.
 
 ## Pages
 
 - `/` — BybeeCo company homepage
-- `/valuark/` — Valuark concept and early-access list
+- `/valuark/` — Valuark overview and early-access list
+- `/valuark/app/` — One-deal calculator preview (client-side)
 - `/deal-xray/` — legacy route redirect to Valuark
 - `/valuark/privacy.html` — early-access privacy notice
 
@@ -27,7 +28,7 @@ Signup buttons link to the Microsoft Forms response URL supplied by BybeeCo. Bef
 
 ## Scope
 
-This site is an **interest test**, not functioning acquisition analysis software. The financial dashboard is hypothetical and clearly labeled as illustrative. There are no AI APIs, payment integrations, advertising trackers, or financial data collection on the website. Cloudflare Web Analytics is included for website traffic measurement. The product signup itself is handled by Microsoft Forms.
+The overview includes an illustrative dashboard and interest test. The calculator at `/valuark/app/` is a functioning preview with no account or deal data submission. It is built separately from the source under `apps/valuark/` in the private BybeeCo LLC repository. There are no AI APIs, payment integrations, advertising trackers, or financial data collection on the website. Cloudflare Web Analytics is included on the marketing pages, not the calculator. The product signup itself is handled by Microsoft Forms.
 
 Contact: chandler@bybeeco.net
 
